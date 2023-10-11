@@ -1,0 +1,43 @@
+.contectcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 80vh;
+}
+
+.colection {
+    width: 30vw;
+}
+
+.inputtages {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    text-align: left;
+}
+
+.inputtages label {
+    margin: 5px;
+}
+
+.btcon {
+    float: left;
+}
+
+.inputtages input {
+    border: none;
+    border-bottom: 0.5px solid rgba(14, 78, 175, 0.767);
+    word-spacing: 2px;
+}
+
+.inputtages input:focus {
+    outline: none;
+    color: rgba(14, 78, 175, 0.767);
+}
+
+.colection h1 {
+    font-weight: 50;
+}

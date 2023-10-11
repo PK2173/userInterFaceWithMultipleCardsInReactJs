@@ -1,0 +1,9 @@
+.Footercontainer {
+  position: fixed;
+  text-align: center;
+  background-color: rgb(240, 248, 255);
+  bottom: 0;
+  width: 100%;
+  color: rgba(0, 0, 0, 0.945);
+  padding: 10px;
+}
